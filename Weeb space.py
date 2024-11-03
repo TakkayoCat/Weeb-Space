@@ -13,7 +13,7 @@ goodbye = ['Пока', 'До встречи👋', 'Прорешаешь зада
 
 driver = webdriver.Chrome()
  
-TOKEN = "7771595576:AAHOSTYPsWLw7k0Re6i_kK6ORRi5mDboOyw"
+TOKEN = "..."
 bot = telebot.TeleBot(TOKEN)
 
 #start
